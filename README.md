@@ -39,4 +39,4 @@ To understand the company's status on its path towards the goal, an analysis of 
 | `retailer`          | Type of retailer associated with the order.                | object        |
 
 ## Case Study
-[Case Study - EasyCart Project Notebook](./easycart_project.ipynb")
+[Case Study - EasyCart Project Notebook](./easycart_project.ipynb)
